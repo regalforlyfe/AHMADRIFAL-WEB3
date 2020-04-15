@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AHMADRIFAL-WEB3/static/css/main.d1b05096.chunk.css",
+    "main.js": "/AHMADRIFAL-WEB3/static/js/main.74340e3f.chunk.js",
+    "main.js.map": "/AHMADRIFAL-WEB3/static/js/main.74340e3f.chunk.js.map",
+    "runtime-main.js": "/AHMADRIFAL-WEB3/static/js/runtime-main.d7c45838.js",
+    "runtime-main.js.map": "/AHMADRIFAL-WEB3/static/js/runtime-main.d7c45838.js.map",
+    "static/css/2.69121389.chunk.css": "/AHMADRIFAL-WEB3/static/css/2.69121389.chunk.css",
+    "static/js/2.17b349fe.chunk.js": "/AHMADRIFAL-WEB3/static/js/2.17b349fe.chunk.js",
+    "static/js/2.17b349fe.chunk.js.map": "/AHMADRIFAL-WEB3/static/js/2.17b349fe.chunk.js.map",
+    "index.html": "/AHMADRIFAL-WEB3/index.html",
+    "precache-manifest.4242b98d7b4cec07d72a38921d21ac11.js": "/AHMADRIFAL-WEB3/precache-manifest.4242b98d7b4cec07d72a38921d21ac11.js",
+    "service-worker.js": "/AHMADRIFAL-WEB3/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/AHMADRIFAL-WEB3/static/css/2.69121389.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/AHMADRIFAL-WEB3/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.17b349fe.chunk.js.LICENSE.txt": "/AHMADRIFAL-WEB3/static/js/2.17b349fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7c45838.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.17b349fe.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.74340e3f.chunk.js"
+  ]
+}
